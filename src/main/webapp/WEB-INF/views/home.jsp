@@ -2,7 +2,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>BoomBox</title>
+	<title>BoomBoxLogin</title>
 	<script src="https://apis.google.com/js/platform.js" async defer></script>
 	<meta name = "google-signin-client_id"content = "748459812572-00ii9sdgdhr4hb5kcmp62bvsf0pv5q45.apps.googleusercontent.com">
 	
