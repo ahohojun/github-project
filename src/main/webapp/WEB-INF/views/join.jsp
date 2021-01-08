@@ -7,6 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 회원가입 페이지
+=======
+<h1>
+SPring Project
+</h1>
+>>>>>>> test-music
 </body>
 </html>
